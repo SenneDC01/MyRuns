@@ -2,7 +2,7 @@
 //  MyRunsTests.swift
 //  MyRunsTests
 //
-//  Created by Guy De Cock on 16/10/2024.
+//  Created by Senne De Cock on 16/10/2024.
 //
 
 import Testing

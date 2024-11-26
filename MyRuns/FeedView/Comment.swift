@@ -2,7 +2,7 @@
 //  Comment.swift
 //  MyRuns
 //
-//  Created by Guy De Cock on 29/10/2024.
+//  Created by Senne De Cock on 29/10/2024.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  RunViewModel.swift
 //  MyRuns
 //
-//  Created by Guy De Cock on 16/10/2024.
+//  Created by Senne De Cock on 16/10/2024.
 //
 
 import Foundation
@@ -12,7 +12,7 @@ import Foundation
 //    let title: String
 //    let imageURL: String
 //    let author: FacebookLoginModel
-//    let likes: [String] // Array of user IDs who liked the post
+//    let likes: [String]
 //    let comments: [Comment]
-//    let timestamp: Date // For sorting posts
+//    let timestamp: Date
 //}
